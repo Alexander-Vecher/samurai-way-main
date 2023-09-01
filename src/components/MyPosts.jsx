@@ -12,6 +12,7 @@ export const MyPosts = ()=>{
             <div className={s.posts}>
                 <Post message='Hi, how are you ?'></Post>
                 <Post message='Its my first...'></Post>
+                <Post message='Its my first...'></Post>
                       </div>
                       </div>
     )
